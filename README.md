@@ -1,1 +1,1 @@
-My new readme file fot the optional task
+My first personal project
